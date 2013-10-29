@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = DelayedFu::VERSION
   spec.authors       = ["Diego Scataglini"]
   spec.email         = ["dwebsubmit@gmail.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = %q{adds a delayed_job compatible syntax to background_fu}
+  spec.summary       = %q{adds a delayed_job compatible syntax to background_fu to models to which you include DelayedFu}
   spec.homepage      = ""
   spec.license       = "MIT"
 
